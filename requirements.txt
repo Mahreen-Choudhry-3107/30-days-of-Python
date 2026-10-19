@@ -1,0 +1,9 @@
+# Needed from Day 22 onwards
+pytest
+requests
+beautifulsoup4
+fastapi
+uvicorn
+httpx
+pandas
+matplotlib
